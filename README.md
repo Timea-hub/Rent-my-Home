@@ -25,7 +25,7 @@ To set up and run the project locally on your machine, please follow the next st
 ### Clone the repository
 Clone the repository using:
 ```git
-git clone https://github.com/fis2021/SimpleRegistrationExample
+git clone https://github.com/Timea-hub/Rent-my-Home.git
 ```
 
 ### Verify that the project Builds locally
